@@ -1,1 +1,1 @@
-# student-performance-prediction
+# student-performance-data-visualization
