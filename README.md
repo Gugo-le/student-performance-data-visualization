@@ -2,7 +2,7 @@
 
 
 ### Data Source 
-1. [Student Performance](https://www.kaggle.com/datasets/whenamancodes/student-performance)
+1. [Student Performance](https://www.kaggle.com/)
 
 ### kaggle notebook
 1. [Kaggle Notebook](https://www.kaggle.com/code/biswajit01/student-performance-prediction/notebook)
@@ -12,7 +12,6 @@
 1. [Github Account](https://github.com)
 2. [VSCode IDE](https://code.visualstudio.com)
 3. [Git CLI](https://git-scm.com/downloads)
-4. [Heroku](https://www.heroku.com)
 
 Create a new environment
 
@@ -25,3 +24,5 @@ Activate the environment
     conda activate ./venv
 ```
 # student-performance-predict
+
+
