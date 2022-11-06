@@ -29,3 +29,4 @@ Activate the environment
 kaggle에서 데이터를 찾은 후 2차원 그래프로 시각화를 하였다.
 
 <img src="./IMG_0869.PNG">
+<img src="./IMG_0867.PNG">
