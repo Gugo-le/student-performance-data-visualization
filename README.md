@@ -25,4 +25,5 @@ Activate the environment
 ```
 # student-performance-predict
 
-
+융합 프로젝트에 시작이 되었던 데이터 시각화 모델이다.
+kaggle에서 데이터를 찾은 후 2차원 그래프로 시각화를 하였다.
