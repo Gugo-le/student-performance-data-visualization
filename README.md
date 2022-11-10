@@ -12,8 +12,8 @@
 1. [Github Account](https://github.com)
 2. [VSCode IDE](https://code.visualstudio.com)
 3. [Git CLI](https://git-scm.com/downloads)
-### 개발 일지
-https://blog.naver.com/rngustmd0719/222907246265
+ ### 개발 일지
+[BLOG](https://blog.naver.com/rngustmd0719/222907246265)
 
 Create a new environment
 
